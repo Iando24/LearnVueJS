@@ -5,5 +5,5 @@ export default {
 </script>
 
 <template>
-  <p>Footer</p>
+  <p>Hello footer</p>
 </template>
